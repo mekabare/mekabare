@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mekabare
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++ for uni
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ and C# for uni
+- 💞️ I’m looking to collaborate on games and game related projects
 - 📫 How to reach me ...
 
 <!---
